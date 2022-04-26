@@ -1,0 +1,63 @@
+;P;¿Cual es la capital de España?
+Paris
+Madrid
+Lisboa
+Londres
+;R;2
+100
+;P;¿Cual de estos animales es mamifero?
+Ballena
+Pulpo
+Anguila
+200
+300
+;R;1
+300
+;P;¿El rubius tiene mas de 20 millones de suscriptores?
+Verdadero
+Falso
+;R;1
+300
+;P;¿Cuando nacio Diomedes Diaz?
+25 de mayo
+31 de octubre
+14 de noviembre
+26 de mayo
+;R;4
+400
+;P;¿Cuántos rayos gamma emite una neurona cuando hace sinapsis?",
+Ninguno,
+Uno,
+Dos
+De Dos a Tres
+;R;1
+500
+;P;¿Cómo se llama a la sensibilidad dolorosa de los sonidos?
+Hipoacusia
+Micropsia
+Hiperacusia
+Hipoalgesia
+;R;3
+600
+;P;Cuál de estas redes sociales es de ámbito laboral
+Facebook
+Linkedin
+Tuenti
+Jobfire
+;R;2
+700
+;P;Cómo se llama la parte de la estructura de una cúpula que la sostiene
+Nervaduras
+Contrafuerte
+Tambor
+Ninguna
+;R;
+800
+;P;Cómo se llama el nivel más alto de la marea
+Pleamar
+Bajamar
+Repunte
+Estacionario
+;R;
+900
+ 

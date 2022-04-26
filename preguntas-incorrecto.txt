@@ -1,0 +1,26 @@
+;P;¿Cual es la capital de España?
+Paris
+Madrid
+Lisboa
+Londres
+;R;2
+100
+;P;¿Cual de estos animales es mamifero?
+Ballena
+Pulpo
+Anguila
+200
+;R;1
+300
+;P;¿El rubius tiene mas de 20 millones de suscriptores?
+Verdadero
+Falso
+;R;1
+300
+;P;¿Cuando nacio Diomedes Diaz?
+25 de mayo
+31 de octubre
+14 de noviembre
+26 de mayo
+;R;4
+300
