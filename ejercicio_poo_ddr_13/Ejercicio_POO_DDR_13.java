@@ -11,7 +11,7 @@ public class Ejercicio_POO_DDR_13 {
         Test t=new Test();
         
         try {
-            t.cargarFichero("preguntas-incorrecto.txt");
+            t.cargarFichero("preguntas-correcto.txt");
             
              t.realizarTest();
             
